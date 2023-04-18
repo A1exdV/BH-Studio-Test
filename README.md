@@ -9,8 +9,8 @@
  
 ![screen-gif](./Gif/gif_connect.gif)
 
-Simple multiplayer game made whis Mirror.
-Very similar to tag game. Players can dash in moving direction and the fist to tag in dash 3 times (can be changed) win.
+Simple multiplayer game made with Mirror.
+Very similar to tag game. Players can dash in moving direction and the first to tag in dash 3 times (can be changed) win.
 Player that has been tagged becomes invulnerable for a short time.
 
 ![screen-gif](./Gif/gif_Game.gif)
